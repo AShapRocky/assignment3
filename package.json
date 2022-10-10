@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AShapRocky/assignment3/issues"
   },
-  "homepage": "https://github.com/AShapRocky/assignment3#readme"
+  "homepage": "https://github.com/AShapRocky/assignment3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
