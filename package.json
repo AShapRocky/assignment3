@@ -1,0 +1,19 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install express --no-save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AShapRocky/assignment3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AShapRocky/assignment3/issues"
+  },
+  "homepage": "https://github.com/AShapRocky/assignment3#readme"
+}
